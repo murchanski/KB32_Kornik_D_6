@@ -1,0 +1,6 @@
+# ninja log v5
+3	107	7218396266435802	CMakeFiles/Result_thread.dir/main.c.obj	1c5b0138483561e6
+9	115	7218396266505603	CMakeFiles/Result_thread.dir/functions.c.obj	5c54c66d495a34cc
+1	137	7218397147112116	build.ninja	3a93cb62e99a23be
+3	107	7218397148837812	CMakeFiles/Result_thread.dir/main.c.obj	1c5b0138483561e6
+107	244	7218397150134318	Result_thread.exe	7c53904fddf09dba

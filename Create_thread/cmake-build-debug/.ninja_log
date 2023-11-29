@@ -1,0 +1,4 @@
+# ninja log v5
+0	151	7218386533759360	CMakeFiles/Create_thread.dir/main.c.obj	18b801959f99ddfe
+9	153	7218386533759360	CMakeFiles/Create_thread.dir/thread.c.obj	ee75dc80e2b225cd
+154	349	7218386535669381	Create_thread.exe	cae7adac2a285dfb

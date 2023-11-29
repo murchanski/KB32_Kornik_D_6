@@ -1,0 +1,4 @@
+# ninja log v5
+1	142	7218393656379444	CMakeFiles/Waiting_thread.dir/main.c.obj	41b3f2f81a876720
+10	180	7218393656758643	CMakeFiles/Waiting_thread.dir/child_thread.c.obj	6a218bf154528fab
+180	333	7218393658259215	Waiting_thread.exe	f16fba0eea7f8aa2
